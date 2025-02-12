@@ -1,0 +1,7 @@
+homepage: "https://profitmetrics.io"
+documentation: "https://knowledge.profitmetrics.io/how-to-set-up-universal-integration-through-google-tag-manager"
+versions:
+  # Latest version
+  - sha: 0bc0c2d37a37aa434b972b43cf1b7ea00ccee55e
+    changeNotes: Initial release.
+  # Older versions
