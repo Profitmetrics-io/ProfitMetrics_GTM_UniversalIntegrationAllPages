@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "type": "TAG",
-  "id": "pmui-pageview",
+  "id": "pmuiallpages",
   "version": 1,
   "securityGroups": [],
   "displayName": "PM Universal Integration All pages",
