@@ -5,5 +5,5 @@ versions:
   - sha: de4983cd2922502a7ceddd4d07efa1bcb1535b8d
     changeNotes: Initial release.
   # Older versions
-  - sha: 
-    changeNotes: 
+  - sha: de4983cd2922502a7ceddd4d07efa1bcb1535b8d
+    changeNotes: Initial release.
