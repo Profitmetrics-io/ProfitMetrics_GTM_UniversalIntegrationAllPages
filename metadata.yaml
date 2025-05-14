@@ -2,8 +2,10 @@ homepage: "https://profitmetrics.io"
 documentation: "https://knowledge.profitmetrics.io/how-to-set-up-universal-integration-through-google-tag-manager"
 versions:
   # Latest version
+  - sha: a895097a262618ca324f188e2eb83a479aa437c0
+    changeNotes: Added support for gbraid and wbraid
+  # Older versions
   - sha: 2a88533b457d55aa79e2144eef95d37e340d8357
     changeNotes: Change tag name and remove "not set" option.
-  # Older versions
   - sha: 0bc0c2d37a37aa434b972b43cf1b7ea00ccee55e
     changeNotes: Initial release.
